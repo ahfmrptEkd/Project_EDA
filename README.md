@@ -4,7 +4,7 @@
 
 ---
 
-**프로젝트 기간:** 2023.5 ~ 2022.6 (3weeks)
+**프로젝트 기간:** 2023.5 ~ 2023.6 (3weeks)
 
 **프로젝트 도구:** Github  
 **사용 언어:** Python Pandas Numpy Matplotlib
